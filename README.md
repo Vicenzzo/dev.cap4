@@ -1,9 +1,12 @@
 ### Fatec ZL - Centro Paula Souza
 ##### Disciplina - Programação Web III
-Grupo X
-- Joaquim da Silva Xavier
-- Jose Bonifacio
-- Isabel Cristina Leopoldina
+Grupo SavPets
+- André Luiz
+- Guilherme Gonçalves
+- Gustavo Nascimento
+- Mateus Santana
+- Pedro Pessina
+- Vicenzzo Toth
 ##### Processo de Desenvolvimento de Software - PDS
 > O PDS segue uma abordagem interativa incremental adaptada do Scrum. Cada interação tem uma definição de pronto estabelecida com objetivo de controlar a qualidade.
 ##### Estudo de Caso – Sistema Integrado de Gestão
